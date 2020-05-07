@@ -1,11 +1,14 @@
 ﻿# Twitter-Sentiment-Analysis
 Date created
+
 4/27/2017
 
 Project Title
+
 Twitter Sentiment Analysis
 
 Project Overview
+
 1. Collect tweets using twitter api using #MOAB using tweepy module
 2. Use tweepy.OAuthHandler to create an authentication using the given key and secret
 3. Get tweets, use #moab and MOAB, filter out retweets, media and urls for date range 04/13/2017 to 04/15/2017
