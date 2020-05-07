@@ -3,11 +3,11 @@
 
 4/27/2017
 
-Project Title
+<b>Project Title</b>
 
 Twitter Sentiment Analysis
 
-Project Overview
+<b>Project Overview</b>
 
 1. Collect tweets using twitter api using #MOAB using tweepy module
 2. Use tweepy.OAuthHandler to create an authentication using the given key and secret
